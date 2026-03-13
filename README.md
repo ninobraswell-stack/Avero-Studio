@@ -2,7 +2,7 @@
 
 # https://ninobraswell-stack.github.io/Avero-Studio/
 
-#DOWNLOAD FILE TO USE ON SCHOOL CHROMEBOOKS / WORKS UNBLOCKED GOGUARDIAN DOESN'T FILTERS
+# DOWNLOAD FILE TO USE ON SCHOOL CHROMEBOOKS / WORKS UNBLOCKED GOGUARDIAN DOESN'T FILTERS
 
 Avero Studio is an experimental communication and customization platform built around a clean, modern design philosophy. The goal of the project is to create a space where messaging, personalization, and visual design come together in a simple but powerful interface. Users can communicate through direct messages and group chats while exploring a UI that focuses on clarity, smooth performance, and aesthetic detail.
 
