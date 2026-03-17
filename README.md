@@ -16,4 +16,4 @@ It is important to note that Avero Studio is currently in a beta stage of develo
 
 The long-term vision for Avero Studio is to refine the platform into a smooth, highly polished environment that combines modern communication tools with a design language inspired by Apple’s attention to detail and simplicity. As development continues, the project aims to improve performance, expand functionality, and create an experience that feels both powerful and beautifully minimal.
 
-# *(PLEASE READ UPDATE LOG FOR MORE INFORMATION)* #
+# *(REMINDER THIS IS AN BETA NOT EVERYTHING IS PERFECT)* #
