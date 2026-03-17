@@ -1,6 +1,4 @@
-# Avero-Studio (BETA)
-
-# https://ninobraswell-stack.github.io/Avero-Studio/
+# Avero Studio (BETA)
 
 # DOWNLOAD FILE TO USE ON SCHOOL CHROMEBOOKS / WORKS UNBLOCKED GOGUARDIAN DOESN'T FILTERS
 
